@@ -1,0 +1,10 @@
+{
+  "default": {
+    "name": "Default Version",
+    "url": "https://drive.google.com/drive/folders/1QOMkYPqgJaNs2bcYYT9oKNV4kWYXqD4B?usp=sharing"
+  },
+  "iranian": {
+    "name": "rockstar Iranian version",
+    "url": "https://github.com/Rathank-Dev/Rockstar-iran/releases/download/v0.0.1/rockstar_pack.zip"
+  }
+}
